@@ -1,4 +1,4 @@
-# Calendar
+# Holiday Calendar
 
 The technologies used to complete the task:
 * PostgeSQL 14.3
