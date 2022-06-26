@@ -6,7 +6,7 @@ The technologies used to complete the task:
 
 The list of German holidays was found [here](https://www.iamexpat.de/expat-info/german-holidays) (though I didn't go in the region specifics)
 
-The calendar was made with the generate_series() function for the current year (2022)
+The calendar was made with the generate_series() function for the current year (2022). I have also included a weekend flag.
 
 ## PostgreSQL DB set up
 
